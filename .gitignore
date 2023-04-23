@@ -1,3 +1,6 @@
+.fvm/flutter_sdk/
+.vscode/settings.json
+
 # Miscellaneous
 *.class
 *.log
